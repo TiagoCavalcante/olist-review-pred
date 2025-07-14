@@ -46,7 +46,7 @@ The goal is to anticipate buyer satisfaction before the actual review is written
 3. **Run**
 
    ```bash
-   jupyter lab olist_review_prediction_v3.ipynb
+   jupyter lab olist_review_prediction.ipynb
    ```
 
 4. **View results**
