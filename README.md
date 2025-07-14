@@ -7,6 +7,7 @@ The goal is to anticipate buyer satisfaction before the actual review is written
 
 ## 🌟 Highlights
 
+* **Presentation:** concise Beamer slide‑deck (`presentation/slides.pdf`) summarising methodology and results.
 * **Data Loading:** Reads all relevant CSV tables (orders, items, payments, reviews).
 * **Feature Engineering:**
   * Numeric – delivery time, cart value, freight, number of items, payment stats, purchase weekday/month.
